@@ -1,0 +1,142 @@
+body {
+    font-family: 'archivo narrow', sans-serif;
+    color: white;
+}
+
+header {
+    
+    text-align: center;
+    padding-top: 150px;
+    height: 330px;
+    background-image: url(https://github.com/ElliottWyatt/iffall2020/blob/master/images/organ.jpg?raw=true);
+    background-size: 100%;
+}
+
+.column-container{
+    margin: auto;
+    width: 960px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30pt;
+    margin: 8pt;
+}
+
+section {
+    padding-top: 30px;
+}
+
+h1{
+    font-size: 61pt;
+    margin: 0;
+    
+}
+h2{
+    margin: 0;
+    font-size: 22pt;
+    font-weight: 700;
+    letter-spacing: .2pt;
+}
+.body-text {
+    font-weight: 500;
+    margin-top: 0pt;
+    font-size:13pt;
+    letter-spacing: .005px;
+    line-height: 18.8pt;
+}
+
+#section1{
+    background-color: rgba(200,100,0,1);
+    height: 685px
+}
+
+.photogrid {
+
+}
+
+#section2{
+    background-color: rgba(10,200,30,1);
+    height: 655px
+}
+#section3{
+    background-color: rgba(188,20,100,1);
+    height: 380px
+}
+
+footer{
+    background-color: rgba(80,10,100,1);
+    height: 120px
+    
+}
+
+#kokopelli {
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    float: right;
+    margin-top: 15pt;
+    margin-left: 25pt;
+    margin-bottom: 17pt;
+}
+.body-wrapper {
+    margin-top:24pt;
+}
+
+.photo-grid{
+        padding: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 22pt;
+ }
+    
+.photo-grid li{
+    display: block;
+    flex: 50%;
+    margin-bottom: 16pt;
+}
+
+.photo-grid img{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-right: 8pt;
+}
+
+h4{
+    font-size: 16pt;
+    text-align: left;
+    margin: 0;
+    margin-bottom: 5.2pt;
+    letter-spacing: 0.01;
+}
+
+.photo-grid li div{
+    padding-right: 20pt;
+}
+
+h5 {
+    display: block;
+    text-align: center;
+    font-size: 19pt;
+    font-weight: 500;
+    line-height: 27pt;
+    margin-top: 25pt;
+    margin: auto;
+    margin-top: 26pt;
+    width: 532.5pt;
+
+}
+
+.section3paragraph {
+    padding-right: 85pt;
+    padding-left: 85pt;
+}
+
+h6 {
+    text-align: left;
+    margin-top: 0pt;
+    padding-top: 29pt;
+    font-size: 13pt;
+    font-weight: 700;
+}
