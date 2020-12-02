@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+h1 {
+    font-family: 'Averia Serif Libre', cursive;
+    font-weight: bold;
+    color: #df0404;
+    font-size: 24pt;
+    text-shadow: 3px 2px black;
+}
+
+h2{
+    font-family: 'Averia Serif Libre', cursive;
+    font-weight: bold;
+    color: #df0404;
+    font-size: 33pt;
+    margin-top: 0px;
+    text-shadow: 3px 2px black;
+}
+
+p {
+    font-family: 'Averia Serif Libre', cursive;
+    font-weight: normal;
+    color: #dcaf52;
+    font-size: 18pt;
+    line-height: 33px;
+}
+
+header{
+    padding-top: 430px;
+    height: 530px;
+    background-image: url(https://github.com/ElliottWyatt/iffall2020/blob/master/images/the-love-witch-poster.jpeg?raw=true);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#title {
+    display: block;
+    width: 780px;
+    margin-top: 200px;
+    padding-left: 4%;
+    margin-bottom: 0px;
+}
+
+.regular {
+    margin-left: 7%;
+    margin-right: 14%;
+    column-width: 30%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fullsize {
+width: 98%;
+border: #dcaf52;
+border-style: solid;
+border-width: 13px;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 0px;
+}
+
+.sidebar{
+    background-color: #df0404;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 13px;
+    }
